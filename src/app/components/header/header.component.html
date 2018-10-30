@@ -1,0 +1,36 @@
+<nav>
+    <div class="nav-wrapper blue-grey darken-3">
+        <div class="container">
+            <a [routerLink]="['/inicio']" class="brand-logo">
+                <img src="/assets/img/logo150px.png" alt="" style="margin-top: 5px" height="55">
+            </a>
+            <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="fa fa-navicon"></i></a>
+            <ul class="right hide-on-med-and-down">
+                <li routerLinkActive="active"><a [routerLink]="['/inicio']"><i class="fa fa-home"></i>&nbsp;Inicio</a></li>
+                <li routerLinkActive="active"><a [routerLink]="['/acerca']"><i class="fa fa-user"></i>&nbsp;¿Quién soy?</a></li>
+                <li routerLinkActive="active"><a [routerLink]="['/portafolio']"><i class="fa fa-suitcase"></i>&nbsp;Portafolio</a></li>
+                <li routerLinkActive="active"><a [routerLink]="['/contacto']"><i class="fa fa-envelope"></i>&nbsp;Contacto</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<ul id="slide-out" class="sidenav">
+    <li>
+        <div class="user-view">
+            <div>
+                <div class="background">
+                    <img src="/assets/img/sidenav.jpg">
+                </div>
+                <a href="#name" class="white-text">
+                    <img class="" src="/assets/img/logo150px.png" height="100">
+                    <!-- <br>Juan Villarroel -->
+                </a>
+                <!-- <a href="#email"><span class="white-text email">correo@prueba.com</span></a> -->
+            </div>
+        </div>
+    </li>
+    <li routerLinkActive="active"><a [routerLink]="['/inicio']">Inicio</a></li>
+    <li routerLinkActive="active"><a [routerLink]="['/acerca']">¿Quién soy?</a></li>
+    <li routerLinkActive="active"><a [routerLink]="['/portafolio']">Portafolio</a></li>
+    <li routerLinkActive="active"><a [routerLink]="['/contacto']">Contacto</a></li>
+</ul>

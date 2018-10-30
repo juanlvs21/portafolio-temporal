@@ -1,0 +1,16 @@
+#tituloparallax {
+    position: absolute;
+    margin: 14%;
+}
+
+@media(max-width:992px) {
+    #tituloparallax {
+        margin: 10%;
+    }
+}
+
+@media(max-width:800px) {
+    #tituloparallax {
+        margin: 4%;
+    }
+}
