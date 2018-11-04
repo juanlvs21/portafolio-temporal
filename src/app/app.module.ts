@@ -26,7 +26,7 @@ import { PortafolioComponent } from './components/portafolio/portafolio.componen
   ],
   imports: [
     BrowserModule,
-    RouterModule.forRoot( ROUTES )
+    RouterModule.forRoot( ROUTES, {useHash:true})
   ],
   providers: [],
   bootstrap: [AppComponent]

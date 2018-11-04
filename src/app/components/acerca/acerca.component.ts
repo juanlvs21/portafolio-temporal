@@ -40,7 +40,7 @@ export class AcercaComponent implements OnInit {
 
   barphp(){
     let i = 1;
-    for (let i = 0; i < 80; i++) {
+    for (let i = 0; i < 70; i++) {
       setTimeout( () => {
         i = i + 1;
         document.getElementById("php").style.width = `${i}%`;
@@ -50,7 +50,7 @@ export class AcercaComponent implements OnInit {
 
   barjs(){
     let i = 1;
-    for (let i = 0; i < 70; i++) {
+    for (let i = 0; i < 80; i++) {
       setTimeout( () => {
         i = i + 1;
         document.getElementById("js").style.width = `${i}%`;
@@ -60,7 +60,7 @@ export class AcercaComponent implements OnInit {
 
   barsql(){
     let i = 1;
-    for (let i = 0; i < 80; i++) {
+    for (let i = 0; i < 65; i++) {
       setTimeout( () => {
         i = i + 1;
         document.getElementById("sql").style.width = `${i}%`;
