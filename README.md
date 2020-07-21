@@ -4,11 +4,6 @@
   Portafolio temporal para reflejar mis proyectos realizados
 </p>
 
-<h4 align="center">
-  <a href="http://juanv.now.sh" target="_blank"><b>Demostración</b></a>
-</h4>
-
-
 ## Screenshot 
 <p align="center">
   <img src="https://i.imgur.com/RgmEcEw.png" title="Juan Villarroel Portafolio" />
