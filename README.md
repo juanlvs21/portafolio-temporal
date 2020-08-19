@@ -21,4 +21,4 @@
 `Nota: este sitio web est totalmente adaptable a dispositivos moviles`
 
 ## Proximamente
-`Cabe destacar que este portafolio sera usado temporalmente, posteriormente será sustituido por un portafolio One Page mejor estructurado y hecho en `<a href="https://reactjs.org/" target="_blank"><b>ReactJS</b></a>
+`Cabe destacar que este portafolio sera usado temporalmente, posteriormente será sustituido por un portafolio One Page mejor estructurado y hecho en `<a href="https://www.gatsbyjs.org/" target="_blank"><b>GatsbyJS</b></a>
