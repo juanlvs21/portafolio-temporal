@@ -10,5 +10,5 @@
 
 ## Screenshot 
 <p align="center">
-  <img src="https://i.imgur.com/RgmEcEw.png" title="Juanlvs-nuxt" />
+  <img src="https://i.imgur.com/Hk7VUuU.png" title="Juanlvs-nuxt" />
 </p>
